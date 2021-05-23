@@ -6,4 +6,4 @@
     - Hooks
     - CSS
 
-<img src="./public/loading_img.png" width="100%" />
+<img src="./public/loading_img.png" />
